@@ -1,0 +1,47 @@
+ [
+      {
+        "id": 1,
+        "job_description": "Software Engineer",
+        "job_responsibility": "Develop and maintain software applications",
+        "salary": "100,000-150,000",
+        "experience": "3-5 years",
+        "educational_requirement": "Bachelor's degree in Computer Science",
+        "email": "jobs@company.com",
+        "phone": "+1-555-555-5555",
+        "address": "123 Main Street, Anytown USA"
+      },
+      {
+        "id": 2,
+        "job_description": "Marketing Manager",
+        "job_responsibility": "Develop and implement marketing campaigns",
+        "salary": "80,000-120,000",
+        "experience": "5-7 years",
+        "educational_requirement": "Bachelor's degree in Marketing or Business",
+        "email": "jobs@company.com",
+        "phone": "+1-555-555-5555",
+        "address": "123 Main Street, Anytown USA"
+      },
+      {
+        "id": 3,
+        "job_description": "Financial Analyst",
+        "job_responsibility": "Analyze financial data and create reports",
+        "salary": "70,000-100,000",
+        "experience": "2-4 years",
+        "educational_requirement": "Bachelor's degree in Finance or Accounting",
+        "email": "jobs@company.com",
+        "phone": "+1-555-555-5555",
+        "address": "123 Main Street, Anytown USA"
+      },
+      {
+        "id": 4,
+        "job_description": "Human Resources Manager",
+        "job_responsibility": "Oversee all aspects of HR",
+        "salary": "90,000-130,000",
+        "experience": "5-7 years",
+        "educational_requirement": "Bachelor's degree in Human Resources or related field",
+        "email": "jobs@company.com",
+        "phone": "+1-555-555-5555",
+        "address": "123 Main Street, Anytown USA"
+      }
+    ]
+  
